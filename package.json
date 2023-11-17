@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/DreamTeam/",
+    "build": "vite build --base=/js_92_BekhUriy/",
     "preview": "vite preview"
   },
   "devDependencies": {
